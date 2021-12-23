@@ -1,5 +1,3 @@
-from selenium.webdriver.common.by import By
-
 class TestData:
     # АДРЕС ДРАЙВЕРА
     CHROME_DRIVER_PATH = 'C:\\WebDriver\\bin\\chromedriver.exe'
